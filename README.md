@@ -1,3 +1,9 @@
+# Crypto token
+
+This is a project in which I have created my own token for the first time with Motoko.
+
+
+
 # Check your Balance
 
 1. Find out your principal id:
